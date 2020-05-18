@@ -39,7 +39,7 @@
      * Regularization
      * Gradient Checking
      * Optimization
-     * Tensorflow Tutorial
+     * Tensorflow
           
 ## Course 3. [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
