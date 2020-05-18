@@ -1,6 +1,5 @@
 # [Deep-Learning-Specialization](https://www.coursera.org/specializations/deep-learning)
-* There are 5 Courses in this Specialization
-
+* In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about **Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization**, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in **Python** and in **TensorFlow**, which we will teach.
     * [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
     * [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
     * [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
