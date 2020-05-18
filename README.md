@@ -6,7 +6,7 @@
     * [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
     * [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
  
-## Course 1. [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+## 1. [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
 * In this course, you will learn the foundations of deep learning. When you finish this class, you will:
     * Understand the major technology trends driving Deep Learning
@@ -23,7 +23,7 @@
     * Building your deep neural network: Step by Step
     * Deep Neural Network Application
     
-## Course 2. [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
+## 2. [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
 
 * After 3 weeks, you will: 
    * Understand industry best-practices for building deep learning applications. 
@@ -40,7 +40,7 @@
      * Optimization
      * Tensorflow
           
-## Course 3. [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+## 3. [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
 * You will learn how to build a successful machine learning project. After 2 weeks, you will: 
    * Understand how to **diagnose errors** in a machine learning system, and 
@@ -48,7 +48,7 @@
    * Understand complex ML settings, such as **mismatched training/test sets**, and comparing to and/or surpassing human-level performance
    * Know how to apply **end-to-end learning, transfer learning, and multi-task learning**
         
-## Course 4. [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+## 4. [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 
 * This course will teach you how to build **convolutional neural networks** and apply it to image data. You will:
    * Understand how to build a convolutional neural network, including recent variations such as residual networks.
@@ -66,7 +66,7 @@
     * Art generation with Neural Style Transfer
     * Face Recognition
       
-## Course 5. [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
+## 5. [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 
 * This course will teach you how to build models for **natural language, audio, and other sequence data**. You will:
    * Understand how to build and train **Recurrent Neural Networks (RNNs)**, and commonly-used variants such as **GRUs and LSTMs**.
