@@ -1,5 +1,5 @@
-# Deep-Learning-Specialization
-* This is my assignment on Andrew Ng's "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)"; a 5 course specialization consisting of the following: 
+# [Deep-Learning-Specialization](https://www.coursera.org/specializations/deep-learning)
+* There are 5 Courses in this Specialization
 
     * [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
     * [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
