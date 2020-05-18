@@ -9,12 +9,12 @@
  
 ## Course 1. [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
-* In this course, the foundations of deep learning were covered. The major learnings after completing this course were :
-    * Understood the major technology trends driving Deep Learning.
-    * Been able to build, train and apply **Fully Connected Deep Neural Networks**. 
-    * Leant how to implement efficient **(Vectorized)** neural networks. 
-    * Understood the key parameters in a neural network's architecture. 
-    * This course also taught how Deep Learning actually works, rather than presenting only a cursory or surface-level description. 
+* In this course, you will learn the foundations of deep learning. When you finish this class, you will:
+    * Understand the major technology trends driving Deep Learning
+    * Be able to build, train and apply **fully connected deep neural networks**
+    * Know how to implement efficient (**vectorized**) neural networks 
+    * Understand the key parameters in a neural network's architecture 
+* This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. 
     
 ### Programming Assignments
 * The assignments of this course are in the folder  **Course 1** and it consits of the following assignments:
@@ -26,12 +26,12 @@
     
 ## Course 2. [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
 
-* After finishing the course the major takeaways were:
-    * Understood industry best-practices for building deep learning applications. 
-    * Been able to effectively use the common neural network "tricks", including **Initialization, L2 and Dropout Regularization, Batch Normalization, Gradient Checking**. 
-    * Been able to implement and apply a variety of optimization algorithms, such as **mini-batch Gradient Descent, Momentum, RMSprop and Adam**, and check for their convergence. 
-    * Understand new best-practices for the deep learning era of how to set up **train/dev/test sets** and analyze **Bias/Variance**.
-    * Been able to implement a neural network in **TensorFlow**. 
+* After 3 weeks, you will: 
+   * Understand industry best-practices for building deep learning applications. 
+   * Be able to effectively use the common neural network "tricks", **including initialization, L2 and dropout regularization, Batch normalization, gradient checking**. 
+   * Be able to implement and apply a variety of optimization algorithms, such as **mini-batch gradient descent, Momentum, RMSprop and Adam**, and check for their convergence. 
+   * Understand new best-practices for the deep learning era of how to set up **train/dev/test sets** and analyze **bias/variance**.
+   * Be able to implement a neural network in **TensorFlow**. 
  
  ### Programming Assignments
  * The assignments of this course are in the folder  **Course 2** and it consits of the following assignments:
@@ -43,18 +43,19 @@
           
 ## Course 3. [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
-* This course taught how to build a successful machine learning project. The major learning after finishing this course were as follows :
-    * Understood how to **Diagnose Errors** in a machine learning system, and been able to prioritize the most promising directions for reducing error.
-    * Understood complex ML settings, such as **Mismatched training/test sets**, and comparing to and/or surpassing human-level performance
-    * Learnt how to apply **End-To-End Learning, Transfer Learning, and Multi-Task Learning**.
+* You will learn how to build a successful machine learning project. After 2 weeks, you will: 
+   * Understand how to **diagnose errors** in a machine learning system, and 
+   * Be able to prioritize the most promising directions for reducing error
+   * Understand complex ML settings, such as **mismatched training/test sets**, and comparing to and/or surpassing human-level performance
+   * Know how to apply **end-to-end learning, transfer learning, and multi-task learning**
         
 ## Course 4. [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 
-* This course taught how to build **Convolutional Neural Networks** and apply it to image data. The major learnings after completing this course were :
-    * Understand how to build a convolutional neural network, including recent variations such as residual networks.
-    * Know how to apply convolutional networks to visual detection and recognition tasks.
-    * Know to use neural style transfer to generate art.
-    * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
+* This course will teach you how to build **convolutional neural networks** and apply it to image data. You will:
+   * Understand how to build a convolutional neural network, including recent variations such as residual networks.
+   * Know how to apply convolutional networks to visual detection and recognition tasks.
+   * Know to use neural style transfer to **generate art**.
+   * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
     
 ### Programming Assignments
 * The assignments of this course are in the folder  **Course 4** and it consits of the following assignments:
@@ -68,10 +69,10 @@
       
 ## Course 5. [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 
-* This course taught how to build models for **Natural Language, Audio, and other Sequence Data**. After finishing the course the major takeaways were :
-    * Understood how to build and train **Recurrent Neural Networks (RNNs)**, and commonly-used variants such as **GRUs and LSTMs**.
-    * Been able to apply sequence models to natural language problems, including **Text Synthesis**.
-    * Been able to apply sequence models to audio applications, including **Speech Recognition and Music Synthesis**.
+* This course will teach you how to build models for **natural language, audio, and other sequence data**. You will:
+   * Understand how to build and train **Recurrent Neural Networks (RNNs)**, and commonly-used variants such as **GRUs and LSTMs**.
+   * Be able to apply sequence models to natural language problems, including **text synthesis**. 
+   * Be able to apply sequence models to audio applications, including **speech recognition and music synthesis**.
     
 ### Programming Assignments
 * The assignments of this course are in the folder  **Course 5** and it consits of the following assignments:
