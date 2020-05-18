@@ -16,7 +16,7 @@
 * This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. 
     
 ### Programming Assignments
-* The assignments of this course are in the folder  **Course 1** and it consits of the following assignments:
+* The assignments for this course are as follows:
     * Python Basics with Numpy
     * Logistic Regression with a Neural Network mindset
     * Planar data classification with a hidden layer
@@ -33,7 +33,7 @@
    * Be able to implement a neural network in **TensorFlow**. 
  
  ### Programming Assignments
- * The assignments of this course are in the folder  **Course 2** and it consits of the following assignments:
+ * The assignments for this course are as follows:
      * Initialization
      * Regularization
      * Gradient Checking
@@ -57,7 +57,7 @@
    * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
     
 ### Programming Assignments
-* The assignments of this course are in the folder  **Course 4** and it consits of the following assignments:
+* The assignments for this course are as follows:
     * Convolutional Model: step by step
     * Convolutional model: application
     * Keras Tutorial
@@ -74,7 +74,7 @@
    * Be able to apply sequence models to audio applications, including **speech recognition and music synthesis**.
     
 ### Programming Assignments
-* The assignments of this course are in the folder  **Course 5** and it consits of the following assignments:
+* The assignments for this course are as follows:
     * Building a recurrent neural network - step by step
     * Dinosaur Island - Character-Level Language Modeling
     * Jazz improvisation with LSTM
