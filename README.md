@@ -20,8 +20,8 @@
 * The assignments of this course are in the folder  **Course 1** and it consits of the following assignments:
     * Python Basics with Numpy
     * Logistic Regression with a Neural Network mindset
-    * Planar data classification with one hidden layer
-    * Building your Deep Neural Network Step by Step
+    * Planar data classification with a hidden layer
+    * Building your deep neural network: Step by Step
     * Deep Neural Network Application
     
 ## Course 2. [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
