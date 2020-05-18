@@ -58,13 +58,13 @@
     
 ### Programming Assignments
 * The assignments of this course are in the folder  **Course 4** and it consits of the following assignments:
-    * Convolutional Model:step by step
-    * Convolution model Application
-    * Keras Tutorial Happy House
+    * Convolutional Model: step by step
+    * Convolutional model: application
+    * Keras Tutorial
     * Residual Networks
-    * Autonomous driving application Car detection
-    * Art Generation with Neural Style Transfer
-    * Face Recognition for the Happy House
+    * Car detection with YOLO
+    * Art generation with Neural Style Transfer
+    * Face Recognition
       
 ## Course 5. [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 
