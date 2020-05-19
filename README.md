@@ -1,10 +1,10 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-* In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about **Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization**, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in **Python** and in **TensorFlow**, which we will teach.
-    * [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
-    * [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
-    * [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
-    * [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
-    * [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
+In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about **Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization**, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in **Python** and in **TensorFlow**, which we will teach.
+* [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
+* [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
+* [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+* [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+* [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
  
 ## 1. [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
@@ -16,12 +16,11 @@
 * This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. 
     
 ### Programming Assignments
-* The assignments for this course are as follows:
-    * Python Basics with Numpy
-    * Logistic Regression with a Neural Network mindset
-    * Planar data classification with a hidden layer
-    * Building your deep neural network: Step by Step
-    * Deep Neural Network Application
+* Python Basics with Numpy
+* Logistic Regression with a Neural Network mindset
+* Planar data classification with a hidden layer
+* Building your deep neural network: Step by Step
+* Deep Neural Network Application
     
 ## 2. [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
 
@@ -32,13 +31,12 @@
    * Understand new best-practices for the deep learning era of how to set up **train/dev/test sets** and analyze **bias/variance**.
    * Be able to implement a neural network in **TensorFlow**. 
  
- ### Programming Assignments
- * The assignments for this course are as follows:
-     * Initialization
-     * Regularization
-     * Gradient Checking
-     * Optimization
-     * Tensorflow
+### Programming Assignments
+* Initialization
+* Regularization
+* Gradient Checking
+* Optimization
+* Tensorflow
           
 ## 3. [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
@@ -57,14 +55,13 @@
    * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
     
 ### Programming Assignments
-* The assignments for this course are as follows:
-    * Convolutional Model: step by step
-    * Convolutional model: application
-    * Keras Tutorial
-    * Residual Networks
-    * Car detection with YOLO
-    * Art generation with Neural Style Transfer
-    * Face Recognition
+* Convolutional Model: step by step
+* Convolutional model: application
+* Keras Tutorial
+* Residual Networks
+* Car detection with YOLO
+* Art generation with Neural Style Transfer
+* Face Recognition
       
 ## 5. [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 
@@ -74,14 +71,13 @@
    * Be able to apply sequence models to audio applications, including **speech recognition and music synthesis**.
     
 ### Programming Assignments
-* The assignments for this course are as follows:
-    * Building a recurrent neural network - step by step
-    * Dinosaur Island - Character-Level Language Modeling
-    * Jazz improvisation with LSTM
-    * Operations on word vectors - Debiasing
-    * Emojify
-    * Neural Machine Translation with Attention
-    * Trigger word detection
+* Building a recurrent neural network - step by step
+* Dinosaur Island - Character-Level Language Modeling
+* Jazz improvisation with LSTM
+* Operations on word vectors - Debiasing
+* Emojify
+* Neural Machine Translation with Attention
+* Trigger word detection
 
 ## Specialization Certificate
-* The Deep Learning Specialization is designed to prepare learners to participate in the development of cutting-edge AI technology, and to understand the capability, the challenges, and the consequences of the rise of deep learning. Through five interconnected courses, learners develop a profound knowledge of the hottest AI algorithms, mastering deep learning from its foundations (neural networks) to its industry applications (Computer Vision, Natural Language Processing, Speech Recognition, etc.).
+The Deep Learning Specialization is designed to prepare learners to participate in the development of cutting-edge AI technology, and to understand the capability, the challenges, and the consequences of the rise of deep learning. Through five interconnected courses, learners develop a profound knowledge of the hottest AI algorithms, mastering deep learning from its foundations (neural networks) to its industry applications (Computer Vision, Natural Language Processing, Speech Recognition, etc.).
