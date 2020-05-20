@@ -8,7 +8,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
  
 ## 1. [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
-In this course, you will learn the foundations of deep learning. When you finish this class, you will:
+In this course, you will learn the foundations of deep learning. You will:
 * Understand the major technology trends driving Deep Learning
 * Be able to build, train and apply **fully connected deep neural networks**
 * Know how to implement efficient (**vectorized**) neural networks 
@@ -23,7 +23,7 @@ In this course, you will learn the foundations of deep learning. When you finish
     
 ## 2. [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
 
-This course will teach you the "magic" of getting deep learning to work well. You will also learn TensorFlow. After 3 weeks, you will: 
+This course will teach you the "magic" of getting deep learning to work well. You will also learn TensorFlow. You will: 
 * Understand industry best-practices for building deep learning applications. 
 * Be able to effectively use the common neural network "tricks", including **initialization, L2 and dropout regularization, Batch normalization, gradient checking**. 
 * Be able to implement and apply a variety of optimization algorithms, such as **mini-batch gradient descent, Momentum, RMSprop and Adam**, and check for their convergence. 
@@ -39,7 +39,7 @@ This course will teach you the "magic" of getting deep learning to work well. Yo
           
 ## 3. [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
-You will learn how to build a successful machine learning project. After 2 weeks, you will: 
+You will learn how to build a successful machine learning project. You will: 
 * Understand how to **diagnose errors** in a machine learning system, and 
 * Be able to prioritize the most promising directions for reducing error
 * Understand complex ML settings, such as **mismatched training/test sets**, and comparing to and/or surpassing human-level performance
