@@ -1,10 +1,10 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about **Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization**, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in **Python** and in **TensorFlow**, which we will teach.
-1. [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
-1. [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
-1. [**Structuring Machine Learning Projects**](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
-1. [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
-1. [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
+1. [**Neural Networks and Deep Learning**](https://github.com/taktak-hi/Deep-Learning-Specialization#1-neural-networks-and-deep-learning)  
+1. [**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**](https://github.com/taktak-hi/Deep-Learning-Specialization#2-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization) 
+1. [**Structuring Machine Learning Projects**](https://github.com/taktak-hi/Deep-Learning-Specialization#3-structuring-machine-learning-projects)
+1. [**Convolutional Neural Networks**](https://github.com/taktak-hi/Deep-Learning-Specialization#4-convolutional-neural-networks)
+1. [**Sequence Models**](https://github.com/taktak-hi/Deep-Learning-Specialization#5-sequence-models)
  
 ## 1. [**Neural Networks and Deep Learning**](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
