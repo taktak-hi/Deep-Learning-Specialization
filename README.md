@@ -13,7 +13,13 @@ In this course, you will learn the foundations of deep learning. You will:
 * Be able to build, train and apply **fully connected deep neural networks**
 * Know how to implement efficient (**vectorized**) neural networks 
 * Understand the key parameters in a neural network's architecture 
-    
+
+### Slides
+* [Introduction to Deep Learning](https://cs230.stanford.edu/files/C1M1.pdf)
+* [Neural Network Basics](https://cs230.stanford.edu/files/C1M2.pdf)
+* [Shallow Neural Network](https://cs230.stanford.edu/files/C1M3.pdf)
+* [Deep Neural Networks](https://cs230.stanford.edu/files/C1M4.pdf)
+
 ### Programming Assignments
 * Python Basics with Numpy
 * Logistic Regression with a Neural Network mindset
@@ -29,7 +35,12 @@ This course will teach you the "magic" of getting deep learning to work well. Yo
 * Be able to implement and apply a variety of optimization algorithms, such as **mini-batch gradient descent, Momentum, RMSprop and Adam**, and check for their convergence. 
 * Understand new best-practices for the deep learning era of how to set up **train/dev/test sets** and analyze **bias/variance**.
 * Be able to implement a neural network in **TensorFlow**. 
- 
+
+### Slides
+* [Practical Aspects of Deep Learning](https://cs230.stanford.edu/files/C2M1.pdf)
+* [Optimization Algorithms](https://cs230.stanford.edu/files/C2M2.pdf)
+* [Hyperparameter Tuning, Batch Normalization](https://cs230.stanford.edu/files/C2M3.pdf)
+
 ### Programming Assignments
 * Initialization
 * Regularization
@@ -45,6 +56,10 @@ You will learn how to build a successful machine learning project. You will:
 * Understand complex ML settings, such as **mismatched training/test sets**, and comparing to and/or surpassing human-level performance
 * Know how to apply **end-to-end learning, transfer learning, and multi-task learning**
         
+### Slides
+* [ML	strategy (1)](https://cs230.stanford.edu/files/C3M1.pdf)
+* [ML	strategy (2)](https://cs230.stanford.edu/files/C3M2.pdf)
+
 ## 4. [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 
 This course will teach you how to build **convolutional neural networks** and apply it to image data. You will:
@@ -52,7 +67,13 @@ This course will teach you how to build **convolutional neural networks** and ap
 * Know how to apply convolutional networks to visual detection and recognition tasks.
 * Know to use neural style transfer to **generate art**.
 * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
-    
+
+### Slides
+* [Foundations of Convolutional Neural Network](https://cs230.stanford.edu/files/C4M1.pdf)
+* [Deep Convolutional Models](https://cs230.stanford.edu/files/C4M2.pdf)
+* [ConvNets Applications (1)](https://cs230.stanford.edu/files/C4M3.pdf)
+* [ConvNets Applications (2)](https://cs230.stanford.edu/files/C4M4.pdf)
+
 ### Programming Assignments
 * Convolutional Model: step by step
 * Convolutional model: application
@@ -68,7 +89,12 @@ This course will teach you how to build models for **natural language, audio, an
 * Understand how to build and train **Recurrent Neural Networks (RNNs)**, and commonly-used variants such as **GRUs and LSTMs**.
 * Be able to apply sequence models to natural language problems, including **text synthesis**. 
 * Be able to apply sequence models to audio applications, including **speech recognition and music synthesis**.
-    
+
+### Slides
+* [Recurrent Neural Networks](https://cs230.stanford.edu/files/C5M1.pdf)
+* [Natural Language Processing and Word Embeddings](https://cs230.stanford.edu/files/C5M2.pdf)
+* [Sequence-to-Sequence Models](https://cs230.stanford.edu/files/C5M3.pdf)
+
 ### Programming Assignments
 * Building a recurrent neural network - step by step
 * Dinosaur Island - Character-Level Language Modeling
